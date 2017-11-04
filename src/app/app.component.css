@@ -1,0 +1,31 @@
+#top {
+    background-color: lightgray;
+    height: 5%;
+    padding: 10px;
+    border: 2px black solid;
+}
+
+#left {
+    background-color: lightgray;  
+    margin-top: 2%;
+    width: 20%;
+    display: inline-block;
+    height: 90%; 
+    border: 2px black solid;
+    padding-bottom : 20%;
+    padding-left: 2%;
+    vertical-align: top;
+}
+
+#right{
+    background-color: lightgray;  
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 73%;
+    display: inline-block;
+    height: 90%; 
+    border: 2px black solid;
+    padding-bottom: 7%;
+    padding-left: 2%;
+    vertical-align: top;
+}
